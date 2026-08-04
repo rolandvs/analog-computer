@@ -1,5 +1,5 @@
 # Analog Computers
-An analog computer was one of the first computers used to simulate dynamic processes, such as a cannonball firing or a bouncing ball, breathing of a heart, etc.
+An analog computer was one of the first computers used to simulate dynamic processes, such as a cannonball firing or a bouncing ball, lung breathing, etc.
 
 ![gallery](doc/analog_gallery.png)
 
