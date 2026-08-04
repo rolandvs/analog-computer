@@ -33,7 +33,7 @@ Building one is always on my mind, but before I do some experiments first. Here 
 
 
 ## Python Simulator
-It is amzingly simple to let AI generate some code that makes it easy to try out ideas. Also, in this case the simulator was build by Claude AI after a long session of what I wanted. It is amazing to see how fast an idea can be tested. However, careful checking of the code is required, things like robustness, correctness and technical debt keep me worried.
+It is amazingly simple to let AI generate some code that makes it easy to try out ideas. Also, in this case the simulator was build by Claude AI after a long session of what I wanted. It is amazing to see how fast an idea can be tested. However, careful checking of the code is required, things like robustness, correctness and technical debt keep me worried.
 
 ### Sample Simulations
 The simulator uses micropython code and is used on a STM32 MCU. However, micropython implementation has enough hardware abstraction that almost any board will work.
